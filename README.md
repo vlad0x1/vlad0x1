@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Uyudirbn and I'm a Developer</h2>
+<h2 align="left">👋 Привет! I'm Vladislav Morozov — a Russian Developer who writes code like poetry and breaks systems like puzzles.</h2>
 
 ###
 
